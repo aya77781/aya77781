@@ -2,7 +2,7 @@
 
 Full-stack developer. I build production web and mobile applications — most of them around a single idea: replacing scattered spreadsheets, emails and PDFs with one system that actually holds the data.
 
-- Currently building **AYA**, a multi-role SaaS platform for construction project management
+- Currently building **ERP**, a multi-role platform for construction project management
 - I like putting LLMs where they do real work: document generation, OCR, scoring, automated pipelines
 - French / English / Arabic
 
