@@ -1,11 +1,11 @@
 ## Aya Boudhas
 
-**Software & Business Solutions Engineer — design, deployment, applied AI**
+**Software & Business Solutions Engineer design, deployment, applied AI**
 
 Engineering student at École Centrale. I work across the whole lifecycle of a business software project: gathering requirements with the people who will use it, functional modelling, full-stack development, acceptance testing, deployment and training. Most of what I build replaces spreadsheets, emails and manual PDFs with one system that actually holds the data.
 
 - Currently designing and deploying a real-estate / construction ERP for a regulated industry
-- Co-founder of **ShowMeHow** — [showmehow.fr](https://showmehow.fr) — AI-generated video tutorials
+- Co-founder of **ShowMeHow** — [showmehow.fr](https://showmehow.fr) AI-generated video tutorials
 - 2nd prize, Medical AI Agentic Hackathon (GE HealthCare × Mistral AI), Centrale Lyon 2026
 - French · English · Arabic
 
@@ -25,7 +25,6 @@ Analysed 3,000+ process variables to identify the drivers of colour deviation; b
 
 **Web Developer** — IKNOVA Consulting · Oct – Nov 2025
 *3D data visualisation*
-
 Interactive 3D visualisation prototypes for business data (React, Three.js, REST APIs, Agile / GitLab CI).
 
 **AI Software Engineering Intern** — ParcoursMCE, Technopark Casablanca · May – Sept 2025<br>
@@ -39,11 +38,11 @@ Automated parsing and classification of accounting documents at over 95% accurac
 
 | Project | What it is | Stack |
 |---|---|---|
-| **API** — [live](https://api-five-rust-20.vercel.app) *(private repo)* | Multi-role SaaS running the full lifecycle of a construction project: 14 actor types, tendering, subcontracting, invoicing, HR, AI-generated technical specifications and contracts | Next.js 14 · TypeScript · Supabase · Claude · n8n |
+| **API** —  *(private repo)* | Multi-role SaaS running the full lifecycle of a construction project: 14 actor types, tendering, subcontracting, invoicing, HR, AI-generated technical specifications and contracts | Next.js 14 · TypeScript · Supabase · Claude · n8n |
 | **ShowMe AI** — [live](https://showmehow.fr) *(private repo)* | Type a topic, get a narrated tutorial video — automated pipeline from LLM script to screenshots, vision-based annotation, TTS and FFmpeg assembly. Built at the AMS GenAI Hackathon 2026 | Next.js 16 · Express · MongoDB · GPT-4o · ElevenLabs |
 | **ChronOCR** *(private repo)* | Multi-tenant invoice management SaaS with automatic OCR, per-company data isolation via PostgreSQL Row Level Security | React · Vite · Supabase · n8n · Mistral AI |
 | [**\$forS**](https://github.com/aya77781/s4s) — [live](https://studentsforstudents.net) | Student solidarity platform connecting students in financial need with alumni, donors and partner companies. Founder | Node.js · Express · Stripe |
-| [**MyFinance**](https://github.com/aya77781/MyFinance) | Personal-finance mobile app: budget, spending by category, savings pots, financial challenges, six-month trends | Expo · React Native · Express |
+| [**MyFinance**][live](https://my-finance-ashen-eight.vercel.app/) | Personal-finance mobile app: budget, spending by category, savings pots, financial challenges, six-month trends | Expo · React Native · Express |
 | [**Calendar**](https://github.com/aya77781/Calendar) | Todo list built around a monthly calendar view, with pastel colour coding and overdue tracking | Node.js · Express · Vanilla JS |
 
 Outside code: **Robotique.lab** — robotics workshops for children aged 4–12, run across 10+ partner centres in Casablanca, Rabat and Fez.
