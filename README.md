@@ -13,12 +13,25 @@ Engineering student at École Centrale. I work across the whole lifecycle of a b
 
 ### Experience
 
-| Role | Where | What |
-|---|---|---|
-| **Functional & Technical Engineer** <br> Mar – Sept 2026 | SARL API — owner's representative / construction project management, Lyon | Designed and deployed a real-estate ERP replacing 16 interconnected Excel sheets. Requirements audit with business users, data model (PostgreSQL / Supabase), multi-role workflows and a permissions matrix for 6 business profiles, Next.js 14 application (~30 API services), real-time financial dashboards, automated document generation and eIDAS-compliant electronic signature. Rollout, end-user training, productisation into a configurable multi-sector architecture. |
-| **Data Scientist** <br> Nov 2025 – Jan 2026 | Serge Ferrari Group | Analysed 3,000+ process variables to identify the drivers of colour deviation; built an ML pipeline and a business-facing reporting tool (scikit-learn, Streamlit, SQL). |
-| **Web Developer** <br> Oct – Nov 2025 | IKNOVA Consulting | Interactive 3D data-visualisation prototypes for business data (React, Three.js, REST APIs, Agile / GitLab CI). |
-| **AI Software Engineering Intern** <br> May – Sept 2025 | ParcoursMCE, Technopark Casablanca | ChronOCR: automated parsing and classification of accounting documents at over 95% accuracy, without hand-written rules. Designed autonomous validation and error-correction workflows (Python, LangChain, LLM APIs). |
+**Functional & Technical Engineer** — SARL API, Lyon · Mar – Sept 2026
+*Owner's representative / construction project management*
+
+Designed and deployed a real-estate ERP replacing 16 interconnected Excel sheets. Requirements audit with business users; data model on PostgreSQL / Supabase; multi-role workflows and a permissions matrix for 6 business profiles; Next.js 14 application with ~30 API services, real-time financial dashboards, automated document generation and eIDAS-compliant electronic signature. Rollout on live operations, end-user training, and productisation into a configurable multi-sector architecture.
+
+**Data Scientist** — Serge Ferrari Group · Nov 2025 – Jan 2026
+*Industrial analytics and production optimisation*
+
+Analysed 3,000+ process variables to identify the drivers of colour deviation; built an ML pipeline and a business-facing reporting tool (scikit-learn, Streamlit, SQL).
+
+**Web Developer** — IKNOVA Consulting · Oct – Nov 2025
+*3D data visualisation*
+
+Interactive 3D visualisation prototypes for business data (React, Three.js, REST APIs, Agile / GitLab CI).
+
+**AI Software Engineering Intern** — ParcoursMCE, Technopark Casablanca · May – Sept 2025
+*Accounting process automation*
+
+Automated parsing and classification of accounting documents at over 95% accuracy, without hand-written rules. Designed autonomous validation and error-correction workflows (Python, LangChain, LLM APIs).
 
 ---
 
