@@ -55,9 +55,9 @@ Full-stack developer. I build production web and mobile applications — most of
 | **API**   [live](https://api-projet.app) *(private repo)* | Multi-role SaaS running the full lifecycle of a construction project: 14 actor types, tendering, subcontracting, invoicing, HR, AI-generated technical specifications and contracts | Next.js 14 · TypeScript · Supabase · Claude · n8n |
 | **ShowMe AI** [live](https://showmehow.fr) *(private repo)* | Type a topic, get a narrated tutorial video — automated pipeline from LLM script to screenshots, vision-based annotation, TTS and FFmpeg assembly | Next.js 16 · Express · MongoDB · GPT-4o · ElevenLabs |
 | **ChronOCR** *(private repo)* | Multi-tenant invoice management SaaS with automatic OCR, per-company data isolation via PostgreSQL Row Level Security | React · Vite · Supabase · n8n · Mistral AI |
-| **MyFinance** [live]([https://showmehow.fr])  | Personal-finance mobile app: budget, spending by category, savings pots, financial challenges, six-month trends | Expo · React Native · Express |
-| **$forS** [live]([https://showmehow.fr]) | Solidarity platform connecting students in need with alumni, donors and partner companies | Node.js · Express · Stripe |
-| **Calendar**(https://github.com/aya77781/Calendar) | Todo list built around a monthly calendar view, with pastel colour coding and overdue tracking | Node.js · Express · Vanilla JS |
+| **MyFinance** [live](https://showmehow.fr)  | Personal-finance mobile app: budget, spending by category, savings pots, financial challenges, six-month trends | Expo · React Native · Express |
+| **$forS** [live](https://showmehow.fr) | Solidarity platform connecting students in need with alumni, donors and partner companies | Node.js · Express · Stripe |
+| **Calendar**| Todo list built around a monthly calendar view, with pastel colour coding and overdue tracking | Node.js · Express · Vanilla JS |
 
 ---
 
