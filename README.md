@@ -2,9 +2,9 @@
 
 Full-stack developer. I build production web and mobile applications — most of them around a single idea: replacing scattered spreadsheets, emails and PDFs with one system that actually holds the data.
 
-- 🏗️ Currently building **AYA**, a multi-role SaaS platform for construction project management
-- 🤖 I like putting LLMs where they do real work: document generation, OCR, scoring, automated pipelines
-- 🌍 French / English / Arabic
+- Currently building **AYA**, a multi-role SaaS platform for construction project management
+- I like putting LLMs where they do real work: document generation, OCR, scoring, automated pipelines
+- French / English / Arabic
 
 ---
 
@@ -72,4 +72,4 @@ Full-stack developer. I build production web and mobile applications — most of
 
 ### Reach me
 
-[![Email](https://img.shields.io/badge/Email-contact@api--projet.fr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@api-projet.fr)
+[![Email](https://img.shields.io/badge/Email-ayaboudhas7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayaboudhas7@gmail.com)
